@@ -4,7 +4,7 @@ Hello there! I'm Ankur Gautam, a passionate developer and tech enthusiast. 👋
 
 ## About Me 🚀
 
-- 🌐 I'm currently working on Disney Hotstar Clone.
+- 🌐 I'm currently working on Genisys AI Project.
 - 🌱 I'm learning Full Stack Web Development.
 - 💡 I love exploring new technologies and building cool stuff.
 - 📫 How to reach me: [Email](mailto:ankurmessi5@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ankur-gautam-6215961bb/) | [Twitter](https://twitter.com/AnkurGauta55266)
